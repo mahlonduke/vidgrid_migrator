@@ -12,3 +12,6 @@ vidGridSecret = '5INLYxMCNiurfjQBASDppTlDBIewUTUFGBbhkW4c'
 
 
 # Vimeo Credentials
+vimClient = '33fb0f8e5db5ea25ee8442a2afbaaeaa27cda0ba'
+vimToken = 'b4d6bc634d86189765fa0fc72005e90b'
+vimSecret = 'T9nOirRhfSOkCSu/2823D1GYQhK4uKR5v3pExDyU9JbX/gLLOeMuNG8kHSG6ZCmhs2+LWb6EF60L6arQT1kOpB3Kxc09FjS5sPHumxVCVdOWEvaAcV4JxNWfXr7fHBIN'
